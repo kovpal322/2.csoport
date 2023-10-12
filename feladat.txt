@@ -1,0 +1,53 @@
+Projekt Neve: Anime Community Hub
+Fő Funkciók:
+    Felhasználói Felület:
+            Kezdőlap, ahol a legújabb és legnépszerűbb animék jelennek meg.
+            Kategóriák böngészése (pl. akció, romantika, fantasy stb.).
+            Animék keresése név vagy kategória alapján.
+            Animék részletei: cím, leírás, értékelések, stb.
+    Felhasználói Funkciók:
+        Regisztráció és Bejelentkezés:
+                Felhasználók regisztrálása felhasználónévvel és jelszóval.
+                Bejelentkezési lehetőség regisztrált felhasználóknak.
+        Animé Értékelés és Kommentelés:
+                Bejelentkezett felhasználók értékelhetik és hozzászólhatnak az animékhez.
+        Kedvencekhez Adás:
+                Felhasználók kedvenc animéit hozzáadhatják a profiljukhoz.
+        Profil Kezelés:
+                Felhasználók módosíthatják a profiljukat, jelszavukat stb.
+    Adatbázis Kezelés:
+        Animé Adatbázis:
+                Adatbázis az animék címeihez, leírásaihoz, kategóriáihoz, értékelésekhez stb.
+                Felhasználói Adatok:
+                Adatbázis a felhasználókhoz tartozó információkhoz.
+                Asztali Alkalmazás:
+        Fejlesztés:
+                Az alkalmazás fejlesztése C# vagy Java nyelven.
+                Grafikus felhasználói felület (GUI) tervezése és implementálása az animék megjelenítéséhez és a felhasználói interakciókhoz.
+    Asztali Alkalmazás:
+        Fejlesztés:
+                Az alkalmazás fejlesztése C# vagy Java nyelven.
+                Grafikus felhasználói felület (GUI) tervezése és implementálása az animék megjelenítéséhez és a felhasználói interakciókhoz.
+
+Leirás:
+    itt van egy részletes tervezet a projekt számára, amely egy weboldalt és alkalmazást 
+    foglal magában, ahol animéket lehet nézni, kommentálni és bejelentkezni szükséges hozzá.  
+
+munkafelosztás:
+    Front-End Fejlesztő(Viktor):
+        A front-end fejlesztő felelős lenne a weboldal és az alkalmazás felhasználói felületének kialakításáért. Feladatai lehetnek:
+        Weboldal és alkalmazás felhasználói felületének tervezése (UX/UI design).
+        Felhasználói felület kialakítása HTML, CSS és JavaScript segítségével.
+        Interaktív elemek, űrlapok, gombok és egyéb felhasználói interfész részletek megvalósítása.
+        Front-end kód feltöltése a Github repository-ba, és a változtatások kezelése.
+    Back-End Fejlesztő(Ádám):
+        A back-end fejlesztő felelős lenne az alkalmazás logikai részének megvalósításáért és az API-k kialakításáért. Feladatai lehetnek:
+        Szerveroldali alkalmazáslogika kifejlesztése.
+        API-k tervezése és megvalósítása az alkalmazás és a weboldal számára.
+        Back-end kód feltöltése a Github repository-ba, és a változtatások kezelése.
+    Adatbázis Szakértő(Roland):
+        Az adatbázis szakértő felelős lenne az alkalmazás adatbázisának tervezéséért, implementálásáért és karbantartásáért. Feladatai lehetnek:
+        Adatbázis tervezése az alkalmazás adatigényeinek megfelelően.
+        Adatbázis táblák, indexek, kapcsolatok kialakítása és karbantartása.
+        Adatbázis lekérdezések optimalizálása és biztonsága.
+        Adatbázis struktúra feltöltése a Github repository-ba, és a változtatások kezelése.  
