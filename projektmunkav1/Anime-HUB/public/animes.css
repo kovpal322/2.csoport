@@ -1,0 +1,74 @@
+
+nav ul {
+    display: flexbox;
+    justify-content: space-between;
+    list-style: none;
+    margin-top: 20px;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    padding: 20px;
+}
+
+.anime {
+
+    background-color: #ffffff54;
+    border: 1px solid #dddddd36;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+}
+
+.anime img {
+    max-width: 100%;
+}
+
+.anime h2 {
+    font-size: 24px;
+    margin-top: 10px;
+}
+
+.anime p {
+    margin: 10px 0;
+}
+
+.anime .price {
+    font-weight: bold;
+    color: #333;
+}
+
+
+
+.feher{
+    color: #fff;
+}
+.anime-list {
+    color: white;
+}
+.home{
+    color: white;
+}
+#anime-list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.product {
+    width: 200px;
+    margin: 10px;
+}
+
